@@ -1,6 +1,15 @@
-# lb-under-construction-template
+# Nuxt Starter Template
 
-> This website is currently down for maintenance
+> My default nuxt starter
+## Devlopment
+- json-server - local api mockup
+- jest - frontend testing
+- pug - template engine
+- 
+## Frontend Set
+- bulma - CSS-only Framwork
+- buefy - bulma for vue on steroids
+- tailwindcss - CSS Utility Framework
 
 ## Build Setup
 
@@ -8,8 +17,10 @@
 # install dependencies
 $ yarn install
 
-# serve with hot reload at localhost:3000
+# serve with hot reload at localhost:8080
 $ yarn dev
+# starts local api on localhost:3002
+$ yarn local-api
 
 # build for production and launch server
 $ yarn build
