@@ -1,0 +1,5 @@
+export const SIGN_UP = '/auth/register'
+export const SIGN_IN = '/auth/login'
+export const PASSWORT_FORGET = '/auth/login'
+export const PASSWORT_RESET = '/auth/login'
+export const CONFIRM_ACCOUNT = '/auth/confirm'

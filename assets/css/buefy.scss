@@ -5,7 +5,8 @@ $primary: #f19300;
 $primary-invert: findColorInvert($primary);
 $twitter: #4099FF;
 $twitter-invert: findColorInvert($twitter);
-
+$link: #1f71ab;
+$link-invert: findColorInvert($link);
 // Setup $colors to use as bulma classes (e.g. 'is-twitter')
 $colors: (
   "white": ($white, $black),
@@ -14,6 +15,7 @@ $colors: (
   "dark": ($dark, $dark-invert),
   "primary": ($primary, $primary-invert),
   "info": ($info, $info-invert),
+  "link": ($link, $link-invert),
   "success": ($success, $success-invert),
   "warning": ($warning, $warning-invert),
   "danger": ($danger, $danger-invert),

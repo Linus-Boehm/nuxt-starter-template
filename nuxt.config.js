@@ -33,9 +33,9 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    { src: '~/plugins/buefy', ssr: false },
+    { src: '~/plugins/buefy', ssr: true },
     { src: '~/plugins/vue-notifications', ssr: false },
-    { src: '~/plugins/vue-validate', ssr: false }
+    { src: '~/plugins/vue-vuelidate', ssr: false }
   ],
   /*
   ** Nuxt.js dev-modules

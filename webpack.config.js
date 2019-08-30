@@ -1,4 +1,6 @@
-// Just a dummy for webstorm
+// Just a dummy for webstorm/vsCode to resolve aliases
+// Aliases are supported by default through nuxt
+// For Webstorm goto Preferences -> Webpack; and select this file for IDE support
 const path = require('path')
 
 module.exports = {
