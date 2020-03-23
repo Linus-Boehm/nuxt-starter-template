@@ -18,7 +18,7 @@
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/dotenv": "^1.4.0",
     "@nuxtjs/pwa": "^3.0.0-0",
-    "buefy": "^0.8.2",
+    "buefy": "^0.8.4",
     "bulma": "^0.7.5",
     "nuxt": "^2.9.0",
     "velocity-animate": "^1.5.2",
